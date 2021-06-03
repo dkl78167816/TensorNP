@@ -1,7 +1,7 @@
 '''
 @Author: duke
-@Date: 2021-05-27 16:35:33
-@LastEditTime: 2021-06-03 09:23:06
+@Date: 2021-05-19 16:35:33
+@LastEditTime: 2021-06-01 00:35:19
 @LastEditors: duke
 @Description: Benchmarks for tensor decomposition algorithms using TensorNP, scikit-tensor, Tensorly.
 '''

@@ -8,3 +8,15 @@
 2. 完善的基准测试
 3. pythonic
 4. 六种分解算法
+
+## 使用
+
+```python
+import tensornp as tnp
+
+tensor = tnp.randn(2, 3, 4)
+factors, core = tnp.hosvd(tensor)
+```
+
+## 引用
+
