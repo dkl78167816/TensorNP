@@ -1,9 +1,10 @@
-# 特点
+# 毕业设计——TensorNP：一个轻量级张量分解算法库
 
-1. numpy、pytorch多后端
-2. 流水线保存
-3. 还原张量
-4. 测试套件
-5. pythonic
-6. 基础操作
-7. 存储
+![scut](./doc/scut.ico)
+
+## 特点
+
+1. numpy、pytorch多计算后端
+2. 完善的基准测试
+3. pythonic
+4. 六种分解算法
